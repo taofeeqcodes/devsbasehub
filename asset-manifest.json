@@ -1,20 +1,38 @@
 {
   "files": {
-    "main.css": "/devsbasehub/static/css/main.3cf91f92.css",
-    "main.js": "/devsbasehub/static/js/main.9085952d.js",
+    "main.css": "/devsbasehub/static/css/main.e2102a0e.css",
+    "main.js": "/devsbasehub/static/js/main.4f11c627.js",
     "static/js/787.9e9f4ffd.chunk.js": "/devsbasehub/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/startlearning.jpg": "/devsbasehub/static/media/startlearning.ea1227fca21555788e1f.jpg",
+    "static/media/buildingprojects.jpg": "/devsbasehub/static/media/buildingprojects.85114a157b1f9ba492c7.jpg",
+    "static/media/reactBanner.jpg": "/devsbasehub/static/media/reactBanner.86c66569a3e124d88c5b.jpg",
+    "static/media/learnathome.jpg": "/devsbasehub/static/media/learnathome.d24b9f474c62a1d390a5.jpg",
+    "static/media/htmlBanner.jpg": "/devsbasehub/static/media/htmlBanner.0aed61d4505c5bbfa697.jpg",
     "static/media/background.png": "/devsbasehub/static/media/background.ff36bda4abfb49f3e284.png",
+    "static/media/javascript.jpg": "/devsbasehub/static/media/javascript.41956fd15fa48466f56c.jpg",
+    "static/media/githubbanner.png": "/devsbasehub/static/media/githubbanner.a581123ac164ce2de414.png",
     "static/media/banner-1.png": "/devsbasehub/static/media/banner-1.321ba7e61eeb8daa729b.png",
+    "static/media/github-142-svgrepo-com.svg": "/devsbasehub/static/media/github-142-svgrepo-com.5531be85d7a8d6f333e5c7136944a022.svg",
+    "static/media/react-svgrepo-com.svg": "/devsbasehub/static/media/react-svgrepo-com.84baf35a2d0333d60e58aa2e5f3c6fc1.svg",
+    "static/media/javascript-155-svgrepo-com.svg": "/devsbasehub/static/media/javascript-155-svgrepo-com.37270e3adc5620c25b5e9b9b6cc900d6.svg",
+    "static/media/git-svgrepo-com.svg": "/devsbasehub/static/media/git-svgrepo-com.890ec924b44c2821c2667459bbaeea25.svg",
+    "static/media/api-settings-svgrepo-com.svg": "/devsbasehub/static/media/api-settings-svgrepo-com.2e11df544a4a915286482174844141d5.svg",
+    "static/media/html5-02-svgrepo-com.svg": "/devsbasehub/static/media/html5-02-svgrepo-com.8864b1cb21c6fb0d6a0688c8e99ee57f.svg",
+    "static/media/css3-02-svgrepo-com.svg": "/devsbasehub/static/media/css3-02-svgrepo-com.0b435e818710854aebd35efe9280f77c.svg",
     "static/media/search-svgrepo-com.svg": "/devsbasehub/static/media/search-svgrepo-com.46ca4dfdd056013c0300c3b9f65660a3.svg",
     "static/media/nav-icon-a-svgrepo-com.svg": "/devsbasehub/static/media/nav-icon-a-svgrepo-com.57b0384e92f3c1a5a83a5912746c71e6.svg",
+    "static/media/time-svgrepo-com.svg": "/devsbasehub/static/media/time-svgrepo-com.3e5c4cf1cded256274375f442af563f4.svg",
+    "static/media/eye-slash-svgrepo-com.svg": "/devsbasehub/static/media/eye-slash-svgrepo-com.b0908e22a02f4d6e2db2a99a587cc31e.svg",
+    "static/media/eye-svgrepo-com.svg": "/devsbasehub/static/media/eye-svgrepo-com.e8983346820bbc2537b258db440c092c.svg",
     "index.html": "/devsbasehub/index.html",
     "static/media/check-svgrepo-com.svg": "/devsbasehub/static/media/check-svgrepo-com.0c572ce74f887a4f5c03cf64eb6353f5.svg",
-    "main.3cf91f92.css.map": "/devsbasehub/static/css/main.3cf91f92.css.map",
-    "main.9085952d.js.map": "/devsbasehub/static/js/main.9085952d.js.map",
+    "static/media/videos-svgrepo-com.svg": "/devsbasehub/static/media/videos-svgrepo-com.76b5e24c7aa6a1bce78d7777989af9bb.svg",
+    "main.e2102a0e.css.map": "/devsbasehub/static/css/main.e2102a0e.css.map",
+    "main.4f11c627.js.map": "/devsbasehub/static/js/main.4f11c627.js.map",
     "787.9e9f4ffd.chunk.js.map": "/devsbasehub/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3cf91f92.css",
-    "static/js/main.9085952d.js"
+    "static/css/main.e2102a0e.css",
+    "static/js/main.4f11c627.js"
   ]
 }

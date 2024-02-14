@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/devsbasehub/static/css/main.582cfaee.css",
-    "main.js": "/devsbasehub/static/js/main.9571bed0.js",
+    "main.css": "/devsbasehub/static/css/main.b57d7ce5.css",
+    "main.js": "/devsbasehub/static/js/main.2b777508.js",
     "static/js/787.9e9f4ffd.chunk.js": "/devsbasehub/static/js/787.9e9f4ffd.chunk.js",
     "static/media/test.mp4": "/devsbasehub/static/media/test.eb7321985614cc2c87c3.mp4",
     "static/media/htmlBanner.jpg": "/devsbasehub/static/media/htmlBanner.0aed61d4505c5bbfa697.jpg",
@@ -15,9 +15,9 @@
     "static/media/apibanner.jpg": "/devsbasehub/static/media/apibanner.4bd20d7b3e0526a21f98.jpg",
     "static/media/banner-1.png": "/devsbasehub/static/media/banner-1.321ba7e61eeb8daa729b.png",
     "static/media/homebanner-2.png": "/devsbasehub/static/media/homebanner-2.fd74b3718ee74758b415.png",
+    "static/media/homebanner-3.png": "/devsbasehub/static/media/homebanner-3.0c85867e0034f64e8e54.png",
     "static/media/subbanner.png": "/devsbasehub/static/media/subbanner.0c85867e0034f64e8e54.png",
     "static/media/twostudents-2.png": "/devsbasehub/static/media/twostudents-2.fe38edcf601e9087b5de.png",
-    "static/media/html lesson-4.png": "/devsbasehub/static/media/html lesson-4.21591d49351ac13e9b30.png",
     "static/media/updates.png": "/devsbasehub/static/media/updates.b18723605ca404caa58f.png",
     "static/media/githubbanner.png": "/devsbasehub/static/media/githubbanner.9d3a4473eabf3c4126b1.png",
     "static/media/html lesson-1.png": "/devsbasehub/static/media/html lesson-1.981b33ba05cd8e9d7a85.png",
@@ -25,6 +25,7 @@
     "static/media/about.png": "/devsbasehub/static/media/about.b495714b7acd46c0334d.png",
     "static/media/exercises.png": "/devsbasehub/static/media/exercises.ede3a115bcd923caa594.png",
     "static/media/html lesson-3.png": "/devsbasehub/static/media/html lesson-3.6436b49939ab3047ac18.png",
+    "static/media/html lesson-4.png": "/devsbasehub/static/media/html lesson-4.08df4ae92f4916c89490.png",
     "static/media/recent.png": "/devsbasehub/static/media/recent.b5a2293cfedc84510fba.png",
     "static/media/video.png": "/devsbasehub/static/media/video.dfb07efa517fa1499b2a.png",
     "static/media/sub.png": "/devsbasehub/static/media/sub.aaac3d8f37d85f72bace.png",
@@ -50,12 +51,12 @@
     "static/media/check-svgrepo-com.svg": "/devsbasehub/static/media/check-svgrepo-com.0c572ce74f887a4f5c03cf64eb6353f5.svg",
     "static/media/search-alt-svgrepo-com.svg": "/devsbasehub/static/media/search-alt-svgrepo-com.30c9be57f2f18e0e351fb481ae3466fe.svg",
     "static/media/videos-svgrepo-com.svg": "/devsbasehub/static/media/videos-svgrepo-com.76b5e24c7aa6a1bce78d7777989af9bb.svg",
-    "main.582cfaee.css.map": "/devsbasehub/static/css/main.582cfaee.css.map",
-    "main.9571bed0.js.map": "/devsbasehub/static/js/main.9571bed0.js.map",
+    "main.b57d7ce5.css.map": "/devsbasehub/static/css/main.b57d7ce5.css.map",
+    "main.2b777508.js.map": "/devsbasehub/static/js/main.2b777508.js.map",
     "787.9e9f4ffd.chunk.js.map": "/devsbasehub/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.582cfaee.css",
-    "static/js/main.9571bed0.js"
+    "static/css/main.b57d7ce5.css",
+    "static/js/main.2b777508.js"
   ]
 }

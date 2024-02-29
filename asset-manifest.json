@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/devsbasehub/static/css/main.e5b58049.css",
-    "main.js": "/devsbasehub/static/js/main.a9f100c6.js",
+    "main.js": "/devsbasehub/static/js/main.f8d53e86.js",
     "static/js/787.9e9f4ffd.chunk.js": "/devsbasehub/static/js/787.9e9f4ffd.chunk.js",
     "static/media/test.mp4": "/devsbasehub/static/media/test.eb7321985614cc2c87c3.mp4",
     "static/media/htmlBanner.jpg": "/devsbasehub/static/media/htmlBanner.0aed61d4505c5bbfa697.jpg",
@@ -52,11 +52,11 @@
     "static/media/search-alt-svgrepo-com.svg": "/devsbasehub/static/media/search-alt-svgrepo-com.30c9be57f2f18e0e351fb481ae3466fe.svg",
     "static/media/videos-svgrepo-com.svg": "/devsbasehub/static/media/videos-svgrepo-com.76b5e24c7aa6a1bce78d7777989af9bb.svg",
     "main.e5b58049.css.map": "/devsbasehub/static/css/main.e5b58049.css.map",
-    "main.a9f100c6.js.map": "/devsbasehub/static/js/main.a9f100c6.js.map",
+    "main.f8d53e86.js.map": "/devsbasehub/static/js/main.f8d53e86.js.map",
     "787.9e9f4ffd.chunk.js.map": "/devsbasehub/static/js/787.9e9f4ffd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e5b58049.css",
-    "static/js/main.a9f100c6.js"
+    "static/js/main.f8d53e86.js"
   ]
 }
